@@ -1,0 +1,18 @@
+# Compiled binaries and build artifacts
+build/
+*.bin
+*.elf
+*.map
+*.o
+*.d
+compile_commands.json
+*.cache
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
